@@ -5,5 +5,5 @@
 
 
 let arr=[2,3,4,6,7]
-let qube=arr.map(ele=>ele**5)
-console.log(qube)
+let qube_5=arr.map(ele=>ele**5)
+console.log(qube_5)
